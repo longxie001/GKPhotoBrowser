@@ -64,3 +64,377 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+Cartfile.resolved
+Carthage/Checkouts/SDWebImage/.gitattributes
+Carthage/Checkouts/SDWebImage/.github/CONTRIBUTING.md
+Carthage/Checkouts/SDWebImage/.github/FUNDING.yml
+Carthage/Checkouts/SDWebImage/.github/ISSUE_TEMPLATE.md
+Carthage/Checkouts/SDWebImage/.github/PULL_REQUEST_TEMPLATE.md
+Carthage/Checkouts/SDWebImage/.github/stale.yml
+Carthage/Checkouts/SDWebImage/.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+Carthage/Checkouts/SDWebImage/.travis.yml
+Carthage/Checkouts/SDWebImage/CHANGELOG.md
+Carthage/Checkouts/SDWebImage/codecov.yml
+Carthage/Checkouts/SDWebImage/Configs/App-Debug.xcconfig
+Carthage/Checkouts/SDWebImage/Configs/App-Release.xcconfig
+Carthage/Checkouts/SDWebImage/Configs/App-Shared.xcconfig
+Carthage/Checkouts/SDWebImage/Configs/Module-Debug.xcconfig
+Carthage/Checkouts/SDWebImage/Configs/Module-Release.xcconfig
+Carthage/Checkouts/SDWebImage/Configs/Module-Shared.xcconfig
+Carthage/Checkouts/SDWebImage/Configs/Test-Debug.xcconfig
+Carthage/Checkouts/SDWebImage/Configs/Test-Release.xcconfig
+Carthage/Checkouts/SDWebImage/Configs/Test-Shared.xcconfig
+Carthage/Checkouts/SDWebImage/Docs/API-Diff/5.0/apidiff.css
+Carthage/Checkouts/SDWebImage/Docs/API-Diff/5.0/apidiff.html
+Carthage/Checkouts/SDWebImage/Docs/Diagrams/SDWebImage.mdj
+Carthage/Checkouts/SDWebImage/Docs/Diagrams/SDWebImageCacheClassDiagram.png
+Carthage/Checkouts/SDWebImage/Docs/Diagrams/SDWebImageClassDiagram.png
+Carthage/Checkouts/SDWebImage/Docs/Diagrams/SDWebImageCodersClassDiagram.png
+Carthage/Checkouts/SDWebImage/Docs/Diagrams/SDWebImageHighLevelDiagram.jpeg
+Carthage/Checkouts/SDWebImage/Docs/Diagrams/SDWebImageLoaderClassDiagram.png
+Carthage/Checkouts/SDWebImage/Docs/Diagrams/SDWebImageManagerClassDiagram.png
+Carthage/Checkouts/SDWebImage/Docs/Diagrams/SDWebImageSequenceDiagram.png
+Carthage/Checkouts/SDWebImage/Docs/Diagrams/SDWebImageTopLevelClassDiagram.png
+Carthage/Checkouts/SDWebImage/Docs/HowToUse.md
+Carthage/Checkouts/SDWebImage/Docs/ManualInstallation.md
+Carthage/Checkouts/SDWebImage/Docs/SDWebImage-4.0-Migration-guide.md
+Carthage/Checkouts/SDWebImage/Docs/SDWebImage-5.0-Migration-guide.md
+Carthage/Checkouts/SDWebImage/Examples/CustomPathImages/4ad9ae8eabfec60b40bf48f0bfc2d120
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo.xcodeproj/project.pbxproj
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo.xcodeproj/xcshareddata/xcschemes/SDWebImage iOS Demo.xcscheme
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo.xcodeproj/xcshareddata/xcschemes/SDWebImage OSX Demo.xcscheme
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo.xcodeproj/xcshareddata/xcschemes/SDWebImage TV Demo.xcscheme
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo.xcodeproj/xcshareddata/xcschemes/SDWebImage Watch Demo.xcscheme
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/AppDelegate.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/AppDelegate.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/Assets.xcassets/AppIcon.appiconset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/Assets.xcassets/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/Assets.xcassets/placeholder.imageset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/Assets.xcassets/placeholder.imageset/placeholder.png
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/Assets.xcassets/placeholder.imageset/placeholder@2x.png
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/DetailViewController.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/DetailViewController.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/en.lproj/DetailViewController.xib
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/en.lproj/MasterViewController.xib
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/LaunchScreen.storyboard
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/main.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/MasterViewController.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/MasterViewController.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/SDWebImage Demo-Info.plist
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Demo/SDWebImage Demo-Prefix.pch
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage OSX Demo/AppDelegate.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage OSX Demo/AppDelegate.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage OSX Demo/Assets.xcassets/AppIcon.appiconset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage OSX Demo/Assets.xcassets/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage OSX Demo/Base.lproj/Main.storyboard
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage OSX Demo/Info.plist
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage OSX Demo/main.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage OSX Demo/ViewController.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage OSX Demo/ViewController.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/AppDelegate.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/AppDelegate.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Back.imagestacklayer/Content.imageset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Back.imagestacklayer/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Front.imagestacklayer/Content.imageset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Front.imagestacklayer/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Small.imagestack/Back.imagestacklayer/Content.imageset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Small.imagestack/Back.imagestacklayer/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Small.imagestack/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Small.imagestack/Front.imagestacklayer/Content.imageset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Small.imagestack/Front.imagestacklayer/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Small.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Small.imagestack/Middle.imagestacklayer/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image Wide.imageset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image.imageset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Assets.xcassets/LaunchImage.launchimage/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Base.lproj/Main.storyboard
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/Info.plist
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/main.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/ViewController.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage TV Demo/ViewController.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo Extension/Assets.xcassets/README__ignoredByTemplate__
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo Extension/ExtensionDelegate.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo Extension/ExtensionDelegate.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo Extension/Info.plist
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo Extension/InterfaceController.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo Extension/InterfaceController.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo Extension/NotificationController.h
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo Extension/NotificationController.m
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo Extension/PushNotificationPayload.apns
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo/Assets.xcassets/AppIcon.appiconset/Contents.json
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo/Base.lproj/Interface.storyboard
+Carthage/Checkouts/SDWebImage/Examples/SDWebImage Watch Demo/Info.plist
+Carthage/Checkouts/SDWebImage/LICENSE
+Carthage/Checkouts/SDWebImage/Package.swift
+Carthage/Checkouts/SDWebImage/Podfile
+Carthage/Checkouts/SDWebImage/README.md
+Carthage/Checkouts/SDWebImage/SDWebImage.podspec
+Carthage/Checkouts/SDWebImage/SDWebImage.xcodeproj/project.pbxproj
+Carthage/Checkouts/SDWebImage/SDWebImage.xcodeproj/xcshareddata/xcschemes/SDWebImage static.xcscheme
+Carthage/Checkouts/SDWebImage/SDWebImage.xcodeproj/xcshareddata/xcschemes/SDWebImage XCFramework.xcscheme
+Carthage/Checkouts/SDWebImage/SDWebImage.xcodeproj/xcshareddata/xcschemes/SDWebImage.xcscheme
+Carthage/Checkouts/SDWebImage/SDWebImage.xcodeproj/xcshareddata/xcschemes/SDWebImageMapKit.xcscheme
+Carthage/Checkouts/SDWebImage/SDWebImage.xcworkspace/contents.xcworkspacedata
+Carthage/Checkouts/SDWebImage/SDWebImage.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/NSButton+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/NSButton+WebCache.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/NSData+ImageContentType.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/NSData+ImageContentType.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/NSImage+Compatibility.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/NSImage+Compatibility.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImage.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImage.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImagePlayer.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImagePlayer.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImageRep.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImageRep.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImageView+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImageView+WebCache.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImageView.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImageView.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDDiskCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDDiskCache.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDGraphicsImageRenderer.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDGraphicsImageRenderer.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageAPNGCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageAPNGCoder.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageAWebPCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageAWebPCoder.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCache.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCacheConfig.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCacheConfig.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCacheDefine.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCacheDefine.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCachesManager.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCachesManager.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCoder.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCoderHelper.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCoderHelper.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCodersManager.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageCodersManager.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageFrame.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageFrame.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageGIFCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageGIFCoder.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageGraphics.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageGraphics.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageHEICCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageHEICCoder.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageIOAnimatedCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageIOAnimatedCoder.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageIOCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageIOCoder.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageLoader.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageLoader.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageLoadersManager.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageLoadersManager.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageTransformer.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDImageTransformer.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDMemoryCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDMemoryCache.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageCacheKeyFilter.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageCacheKeyFilter.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageCacheSerializer.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageCacheSerializer.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageCompat.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageCompat.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDefine.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDefine.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloader.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloader.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderConfig.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderConfig.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderDecryptor.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderDecryptor.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderOperation.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderOperation.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderRequestModifier.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderRequestModifier.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderResponseModifier.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageDownloaderResponseModifier.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageError.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageError.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageIndicator.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageIndicator.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageManager.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageManager.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageOperation.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageOperation.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageOptionsProcessor.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageOptionsProcessor.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImagePrefetcher.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImagePrefetcher.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageTransition.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/SDWebImageTransition.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIButton+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIButton+WebCache.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+ExtendedCacheData.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+ExtendedCacheData.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+ForceDecode.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+ForceDecode.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+GIF.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+GIF.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+MemoryCacheCost.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+MemoryCacheCost.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+Metadata.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+Metadata.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+MultiFormat.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+MultiFormat.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+Transform.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImage+Transform.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImageView+HighlightedWebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImageView+HighlightedWebCache.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImageView+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIImageView+WebCache.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIView+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIView+WebCache.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIView+WebCacheOperation.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Core/UIView+WebCacheOperation.m
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/NSButton+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/NSData+ImageContentType.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/NSImage+Compatibility.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDAnimatedImage.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDAnimatedImagePlayer.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDAnimatedImageRep.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDAnimatedImageView+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDAnimatedImageView.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDDiskCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDGraphicsImageRenderer.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageAPNGCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageAWebPCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageCacheConfig.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageCacheDefine.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageCachesManager.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageCoderHelper.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageCodersManager.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageFrame.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageGIFCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageGraphics.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageHEICCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageIOAnimatedCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageIOCoder.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageLoader.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageLoadersManager.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDImageTransformer.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDMemoryCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImage.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageCacheKeyFilter.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageCacheSerializer.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageCompat.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageDefine.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageDownloader.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageDownloaderConfig.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageDownloaderDecryptor.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageDownloaderOperation.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageDownloaderRequestModifier.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageDownloaderResponseModifier.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageError.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageIndicator.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageManager.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageOperation.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageOptionsProcessor.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImagePrefetcher.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImageTransition.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIButton+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIImage+ExtendedCacheData.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIImage+ForceDecode.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIImage+GIF.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIImage+MemoryCacheCost.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIImage+Metadata.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIImage+MultiFormat.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIImage+Transform.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIImageView+HighlightedWebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIImageView+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIView+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImage/include/SDWebImage/UIView+WebCacheOperation.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/NSBezierPath+SDRoundedCorners.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/NSBezierPath+SDRoundedCorners.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDAssociatedObject.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDAssociatedObject.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDAsyncBlockOperation.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDAsyncBlockOperation.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDDeviceHelper.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDDeviceHelper.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDDisplayLink.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDDisplayLink.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDFileAttributeHelper.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDFileAttributeHelper.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDImageAssetManager.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDImageAssetManager.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDImageCachesManagerOperation.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDImageCachesManagerOperation.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDImageIOAnimatedCoderInternal.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDInternalMacros.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDInternalMacros.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDmetamacros.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDWeakProxy.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDWeakProxy.m
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/SDWebImageTransitionInternal.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/UIColor+SDHexString.h
+Carthage/Checkouts/SDWebImage/SDWebImage/Private/UIColor+SDHexString.m
+Carthage/Checkouts/SDWebImage/SDWebImage_logo.png
+Carthage/Checkouts/SDWebImage/SDWebImage_logo_small.png
+Carthage/Checkouts/SDWebImage/SDWebImageMapKit/include/SDWebImageMapKit/MKAnnotationView+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImageMapKit/include/SDWebImageMapKit/SDWebImageMapKit.h
+Carthage/Checkouts/SDWebImage/SDWebImageMapKit/MapKit/MKAnnotationView+WebCache.h
+Carthage/Checkouts/SDWebImage/SDWebImageMapKit/MapKit/MKAnnotationView+WebCache.m
+Carthage/Checkouts/SDWebImage/Tests/SDWebImage Tests.xcodeproj/project.pbxproj
+Carthage/Checkouts/SDWebImage/Tests/SDWebImage Tests.xcodeproj/xcshareddata/xcschemes/Tests iOS.xcscheme
+Carthage/Checkouts/SDWebImage/Tests/SDWebImage Tests.xcodeproj/xcshareddata/xcschemes/Tests Mac.xcscheme
+Carthage/Checkouts/SDWebImage/Tests/SDWebImage Tests.xcodeproj/xcshareddata/xcschemes/Tests TV.xcscheme
+Carthage/Checkouts/SDWebImage/Tests/Tests Mac/Info.plist
+Carthage/Checkouts/SDWebImage/Tests/Tests TV/Info.plist
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/1@2x.gif
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/MonochromeTestImage.jpg
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestEXIF.png
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImage.gif
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImage.heic
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImage.heif
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImage.jpg
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImage.pdf
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImage.png
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImageAnimated.apng
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImageAnimated.heic
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImageAnimated.webp
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImageLarge.jpg
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImageLarge.png
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestImageStatic.webp
+Carthage/Checkouts/SDWebImage/Tests/Tests/Images/TestLoopCount.gif
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDAnimatedImageTest.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDCategoriesTests.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDImageCacheTests.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDImageCoderTests.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDImageTransformerTests.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDMockFileManager.h
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDMockFileManager.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDTestCase.h
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDTestCase.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDUtilsTests.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebCacheCategoriesTests.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageDownloaderTests.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageManagerTests.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImagePrefetcherTests.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestCache.h
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestCache.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestCoder.h
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestCoder.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestDownloadOperation.h
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestDownloadOperation.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestLoader.h
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestLoader.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestTransformer.h
+Carthage/Checkouts/SDWebImage/Tests/Tests/SDWebImageTestTransformer.m
+Carthage/Checkouts/SDWebImage/Tests/Tests/Tests-Info.plist
+Carthage/Checkouts/SDWebImage/Tests/Tests/Tests-Prefix.pch
+Carthage/Checkouts/SDWebImage/WebImage/Info.plist
+Carthage/Checkouts/SDWebImage/WebImage/SDWebImage.h
+Carthage/Checkouts/SDWebImage/WebImage/SDWebImageMapKit.h

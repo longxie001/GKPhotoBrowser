@@ -25,8 +25,7 @@
 		700DAAB12692FECB004EB787 /* GKPhotoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 700DAA9F2692FECB004EB787 /* GKPhotoView.m */; };
 		700DAAB22692FECB004EB787 /* GKPanGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 700DAAA02692FECB004EB787 /* GKPanGestureRecognizer.m */; };
 		700DAAB32692FECB004EB787 /* GKPhotoBrowser.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 700DAAA12692FECB004EB787 /* GKPhotoBrowser.bundle */; };
-		700DAAC0269302F0004EB787 /* SDWebImage.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 700DAABF269302F0004EB787 /* SDWebImage.xcframework */; };
-		700DAAC1269302F1004EB787 /* SDWebImage.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 700DAABF269302F0004EB787 /* SDWebImage.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		700DAAC326930F35004EB787 /* SDWebImage.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 700DAABF269302F0004EB787 /* SDWebImage.xcframework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,7 +35,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				700DAAC1269302F1004EB787 /* SDWebImage.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -72,7 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				700DAAC0269302F0004EB787 /* SDWebImage.xcframework in Frameworks */,
+				700DAAC326930F35004EB787 /* SDWebImage.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,8 +80,8 @@
 		700DAA8E2692FECA004EB787 /* SDWebImage */ = {
 			isa = PBXGroup;
 			children = (
-				700DAA8F2692FECA004EB787 /* GKSDWebImageManager.m */,
 				700DAA902692FECA004EB787 /* GKSDWebImageManager.h */,
+				700DAA8F2692FECA004EB787 /* GKSDWebImageManager.m */,
 			);
 			path = SDWebImage;
 			sourceTree = "<group>";
@@ -91,21 +89,21 @@
 		700DAA912692FECB004EB787 /* Core */ = {
 			isa = PBXGroup;
 			children = (
+				700DAA9A2692FECB004EB787 /* GKLoadingView.h */,
 				700DAA922692FECB004EB787 /* GKLoadingView.m */,
-				700DAA932692FECB004EB787 /* GKWebImageProtocol.h */,
-				700DAA942692FECB004EB787 /* GKPhotoManager.h */,
-				700DAA952692FECB004EB787 /* UIScrollView+GKPhotoBrowser.h */,
 				700DAA962692FECB004EB787 /* GKPanGestureRecognizer.h */,
-				700DAA972692FECB004EB787 /* GKPhotoView.h */,
+				700DAAA02692FECB004EB787 /* GKPanGestureRecognizer.m */,
+				700DAA9E2692FECB004EB787 /* GKPhotoBrowser.h */,
 				700DAA982692FECB004EB787 /* GKPhotoBrowser.m */,
 				700DAA992692FECB004EB787 /* GKPhotoBrowserConfigure.h */,
-				700DAA9A2692FECB004EB787 /* GKLoadingView.h */,
-				700DAA9B2692FECB004EB787 /* GKPhotoManager.m */,
-				700DAA9C2692FECB004EB787 /* UIScrollView+GKPhotoBrowser.m */,
 				700DAA9D2692FECB004EB787 /* GKPhotoBrowserConfigure.m */,
-				700DAA9E2692FECB004EB787 /* GKPhotoBrowser.h */,
+				700DAA942692FECB004EB787 /* GKPhotoManager.h */,
+				700DAA9B2692FECB004EB787 /* GKPhotoManager.m */,
+				700DAA972692FECB004EB787 /* GKPhotoView.h */,
 				700DAA9F2692FECB004EB787 /* GKPhotoView.m */,
-				700DAAA02692FECB004EB787 /* GKPanGestureRecognizer.m */,
+				700DAA932692FECB004EB787 /* GKWebImageProtocol.h */,
+				700DAA952692FECB004EB787 /* UIScrollView+GKPhotoBrowser.h */,
+				700DAA9C2692FECB004EB787 /* UIScrollView+GKPhotoBrowser.m */,
 			);
 			path = Core;
 			sourceTree = "<group>";

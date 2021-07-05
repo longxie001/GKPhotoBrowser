@@ -93,13 +93,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		70868E9D2692E7CD006DC792 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 795FA5831FF333420057BDB0 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 70868E972692E7CD006DC792;
-			remoteInfo = GKPhotoBrowser;
-		};
 		795FA5A41FF333420057BDB0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 795FA5831FF333420057BDB0 /* Project object */;
@@ -165,6 +158,7 @@
 		70868E9B2692E7CD006DC792 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		70868EC52692EAAE006DC792 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		70868EC92692EAE8006DC792 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		70868ECB2692F27D006DC792 /* SDWebImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7927F0CE20A97F280017FD5B /* GKTestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GKTestViewController.h; sourceTree = "<group>"; };
 		7927F0CF20A97F280017FD5B /* GKTestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GKTestViewController.m; sourceTree = "<group>"; };
 		795FA58B1FF333420057BDB0 /* GKPhotoBrowserDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GKPhotoBrowserDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -505,6 +499,7 @@
 		AC164CC01C3860407343047D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				70868ECB2692F27D006DC792 /* SDWebImage.framework */,
 				70868EC92692EAE8006DC792 /* SDWebImage.framework */,
 				70868EC52692EAAE006DC792 /* SDWebImage.framework */,
 				E226CAABE93571C9A572D4E4 /* Pods_GKPhotoBrowserDemo.framework */,
@@ -583,7 +578,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				70868E9E2692E7CD006DC792 /* PBXTargetDependency */,
 			);
 			name = GKPhotoBrowserDemo;
 			productName = GKPhotoBrowserDemo;
@@ -863,11 +857,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		70868E9E2692E7CD006DC792 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 70868E972692E7CD006DC792 /* GKPhotoBrowser */;
-			targetProxy = 70868E9D2692E7CD006DC792 /* PBXContainerItemProxy */;
-		};
 		795FA5A51FF333420057BDB0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 795FA58A1FF333420057BDB0 /* GKPhotoBrowserDemo */;
@@ -910,6 +899,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
+				OTHER_LDFLAGS = "-all_load";
 				PRODUCT_BUNDLE_IDENTIFIER = com.esunny.GKPhotoBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
@@ -937,6 +927,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_FAST_MATH = YES;
+				OTHER_LDFLAGS = "-all_load";
 				PRODUCT_BUNDLE_IDENTIFIER = com.esunny.GKPhotoBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
